@@ -1,6 +1,8 @@
 # Main information
 Platform address address: [0xB2D68fF3a4EF177a8e5F12667a63C1C872378a1a](https://mumbai.polygonscan.com/address/0xB2D68fF3a4EF177a8e5F12667a63C1C872378a1a#code)
+
 USD token: [0xA8cC9e3Ac9C3B171059EE5db46A02c5aA20835eD](https://mumbai.polygonscan.com/address/0xA8cC9e3Ac9C3B171059EE5db46A02c5aA20835eD#code)
+
 ICO token: [0x50d7222306D973E4347f67Ef701b6718e07f0783](https://mumbai.polygonscan.com/address/0x50d7222306D973E4347f67Ef701b6718e07f0783#code)
 
 ## Installation
