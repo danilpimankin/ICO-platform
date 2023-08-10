@@ -12,7 +12,7 @@ async function main() {
   const name = "ICO token";
   const symbol = "ICO";
 
-  const MyToken = await ethers.getContractFactory("ICOtoken");
+  const MyToken = await ethers.getContractFactory("MyToken");
   const myToken = await MyToken.deploy(name, symbol, 18);
 
   await myToken.deployed();
