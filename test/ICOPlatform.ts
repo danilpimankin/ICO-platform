@@ -106,7 +106,7 @@ describe("ICOPlatform contract", function () {
         
     })
 
-    describe("Withdraw USD tokens", async () => {
+    describe("Withdraw ICO tokens", async () => {
         it("test 1. Withdrawal tokens too early", async () => {
           await expect(platform.connect(user1)
             .withdrawTokens())
@@ -158,7 +158,7 @@ describe("ICOPlatform contract", function () {
         })
     })
 
-    describe("Withdraw ICO tokens", async () => {
+    describe("Withdraw USD tokens", async () => {
         it("test 1. Withdraw USD tokens by a random user", async () => {
           await expect(platform.connect(user1)
             .withdrawUSD())
