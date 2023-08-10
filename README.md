@@ -21,12 +21,10 @@ npx hardhat run scripts/deployContract.ts --network polygon-mumbai
 Running a buy token task: 
 ```
 npx hardhat buy --platform 0xB2D68fF3a4EF177a8e5F12667a63C1C872378a1a --amount 100000000000000000000 --network polygon-mumbai
-
 ```
 ## Test Running
 Running contract tests: 
 ```
 npx hardhat test
-
 ```
 ![test screenshot](https://github.com/danilpimankin/ICO-platform/blob/main/screenshot.png)
